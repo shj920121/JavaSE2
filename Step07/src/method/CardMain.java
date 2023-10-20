@@ -1,6 +1,6 @@
 package method;
 
-public class CardMain {
+public class CardMain { //헤드퍼스트 디자인패턴 RIDI
 	public static void main(String[] args) {
 		Card c1 = new Card("홍길동");
 		Card c2 = new Card("김철수");
